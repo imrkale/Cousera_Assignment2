@@ -4,7 +4,7 @@
 ## Write a short comment describing this function
 ##This function creates a special matrix object that can cache its inverse.
 ##It will set the matrix value, get the matrix value, set the inverse matrix 
-##value and get that value...
+##value and get that value....
 
 makeCacheMatrix <- function(x = matrix()) {
 invmat<-NULL  		##Will contain the inverse matrix value
