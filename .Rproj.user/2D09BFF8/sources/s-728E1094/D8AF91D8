@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587285955566.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "D8AF91D8",
+    "lastKnownWriteTime" : 1587286780,
+    "last_content_update" : 1587286780983,
+    "path" : "~/R Prog. Cousera/Cousera_Assignment2/cachematrix.R",
+    "project_path" : "cachematrix.R",
+    "properties" : {
+        "cursorPosition" : "6,26",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
